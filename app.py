@@ -60,3 +60,4 @@ def get_application_params():
         "LoanAmount" : 5000,
         "Credit_History" : "<Cleared Debts/ Uncleared Debts>"
         }
+    return parameters
